@@ -31,3 +31,9 @@ A full-stack job portal web application that connects job seekers and recruiters
 cd server
 npm install
 npm run dev
+
+###FRONTEND
+</> bash
+cd client
+npm install
+npm start
