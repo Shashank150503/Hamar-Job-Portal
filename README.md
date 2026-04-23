@@ -1,6 +1,6 @@
 # 🚀 HamarJob Portal
 
-A full-stack job portal web application that connects job seekers and recruiters, enabling seamless job posting, searching, and application tracking.
+“Developed a scalable job portal with dynamic filtering, REST APIs, and optimized search handling 1000+ queries”
 
 ---
 
